@@ -1,0 +1,10 @@
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async Await usage-2.csprojAssemblyReference.cache
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async_Await_usage_2.Form1.resources
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async_Await_usage_2.Properties.Resources.resources
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async Await usage-2.csproj.GenerateResource.cache
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async Await usage-2.csproj.CoreCompileInputs.cache
+C:\Users\Captain CW10\source\repos\Async Await usage-2\bin\Debug\Async Await usage-2.exe.config
+C:\Users\Captain CW10\source\repos\Async Await usage-2\bin\Debug\Async Await usage-2.exe
+C:\Users\Captain CW10\source\repos\Async Await usage-2\bin\Debug\Async Await usage-2.pdb
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async Await usage-2.exe
+C:\Users\Captain CW10\source\repos\Async Await usage-2\obj\Debug\Async Await usage-2.pdb

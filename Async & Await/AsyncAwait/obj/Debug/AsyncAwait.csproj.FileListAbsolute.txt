@@ -1,0 +1,10 @@
+C:\Users\Captain CW10\source\repos\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Users\Captain CW10\source\repos\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Users\Captain CW10\source\repos\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.Form1.resources
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.cache
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Users\Captain CW10\source\repos\AsyncAwait\obj\Debug\AsyncAwait.pdb

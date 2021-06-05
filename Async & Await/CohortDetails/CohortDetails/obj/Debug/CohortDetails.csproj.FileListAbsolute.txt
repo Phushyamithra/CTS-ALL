@@ -1,0 +1,7 @@
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\bin\Debug\CohortDetails.exe.config
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\bin\Debug\CohortDetails.exe
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\bin\Debug\CohortDetails.pdb
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\obj\Debug\CohortDetails.csprojAssemblyReference.cache
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\obj\Debug\CohortDetails.csproj.CoreCompileInputs.cache
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\obj\Debug\CohortDetails.exe
+C:\Users\MEGHANA\source\repos\CohortDetails\CohortDetails\obj\Debug\CohortDetails.pdb
