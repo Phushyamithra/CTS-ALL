@@ -1,0 +1,7 @@
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\bin\Debug\RoslynAnalyzer.exe.config
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\bin\Debug\RoslynAnalyzer.exe
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\bin\Debug\RoslynAnalyzer.pdb
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\obj\Debug\RoslynAnalyzer.csproj.CoreCompileInputs.cache
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\obj\Debug\RoslynAnalyzer.exe
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\obj\Debug\RoslynAnalyzer.pdb
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\RoslynAnalyzer\RoslynAnalyzer\obj\Debug\RoslynAnalyzer.csprojAssemblyReference.cache
